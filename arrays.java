@@ -18,7 +18,6 @@ public class arrays {
             System.out.print(n);
             System.out.print("\n");
         }
-                    System.out.print("Program done");
 
     }   
 }
